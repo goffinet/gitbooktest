@@ -9,3 +9,4 @@
 * [Buy](https://goffinet.memberful.com/checkout?plan=28708)
 * [Sign-In](https://goffinet.memberful.com/account)
 * [Sign-Out](https://goffinet.memberful.com/auth/sign_out)
+* [test](test/README.md)
