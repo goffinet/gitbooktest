@@ -7,4 +7,4 @@
 * [Fourth Chapter](chapter4.md)
 * [5th Chapter](chapter5.md)
 * [Sign-In](https://goffinet.memberful.com/account)
-* [Sihn-Out](https://goffinet.memberful.com/auth/sign_out)
+* [Sign-Out](https://goffinet.memberful.com/auth/sign_out)
